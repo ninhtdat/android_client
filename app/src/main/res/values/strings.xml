@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">client</string>
+    <string name="detail">Detail</string>
+    <string name="fruit_name">Fruit name</string>
+    <string name="fruit_detail">Fruit detail</string>
+    <string name="back">Back</string>
+    <string name="most_popular_food">Most popular food</string>
+    <string name="image">IMAGE</string>
 </resources>
